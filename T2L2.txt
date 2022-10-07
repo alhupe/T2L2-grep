@@ -1,3 +1,5 @@
 1 - cd /home     y     sudo mkdir T2L2
 
 2 - cd /home/T2L2
+
+3 - sudo touch demo.txt     y     sudo nano demo.txt    para escribir el texto.
