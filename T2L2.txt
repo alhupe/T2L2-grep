@@ -11,6 +11,6 @@
 6 - cd /home  ,    sudo mkdir prova   ,    sudo cp /home/T2L2/demo.txt /home/prova/demo.txt    ,  sudo cp /home/T2L2/demo.txt /home/T2L2/demo2.txt
     grep -i -r línia
 
-7 - sudo grep línia | sudo grep blanc demo.txt
+7 - cat demo.txt | grep línia.*blanc
 
-8 - sudo grep Línia | sudo grep Totes demo.txt
+8 - cat demo.txt | grep Línia*Totes
