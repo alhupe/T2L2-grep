@@ -3,3 +3,6 @@
 2 - cd /home/T2L2
 
 3 - sudo touch demo.txt     y     sudo nano demo.txt    para escribir el texto.
+
+4 - grep esta demo.txt
+
