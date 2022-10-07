@@ -11,3 +11,4 @@
 6 - cd /home  ,    sudo mkdir prova   ,    sudo cp /home/T2L2/demo.txt /home/prova/demo.txt    ,  sudo cp /home/T2L2/demo.txt /home/T2L2/demo2.txt
     grep -i -r línia
 
+7 - sudo grep -i línia | sudo -i grep blanc demo.txt
